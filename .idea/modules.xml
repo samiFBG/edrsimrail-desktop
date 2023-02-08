@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EDRAPP.iml" filepath="$PROJECT_DIR$/.idea/EDRAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/edr-desktop.iml" filepath="$PROJECT_DIR$/.idea/edr-desktop.iml" />
     </modules>
   </component>
 </project>
